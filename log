@@ -77,3 +77,9 @@ list.c:74:22: error: assignment from incompatible pointer type [-Werror=incompat
 cc1.exe: all warnings being treated as errors
 Compilation failed
 9acbb6a
+Sun, Mar 30, 2025 11:23:49 AM: 
+ list.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  10|2
+total_score: 45/70
+0718aff
