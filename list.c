@@ -119,6 +119,7 @@ void * popCurrent(List * list) {
         list -> tail = AuxI;
     }
     list -> current = AuxD;
+    free(Aux);
     return datito;
 }
 
